@@ -26,4 +26,4 @@ def swap_elements_from_to(array,i1,i2)
 end
 
 #array_sort_char_count(array)
-swap_elements_from_to(["a", "b", "c"],0,2)
+#swap_elements_from_to(["a", "b", "c"],0,2)
