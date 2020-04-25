@@ -5,10 +5,10 @@ def sort_array_asc(array)
 end
 
 def sort_array_desc(array)
-  puts array.sort.reverse
+  return array.sort.reverse
 end
 
 def array_sort_char_count(array)
-  
+  return array.sort_by {|x| x.length}
 end
 sort_array_desc(array)
