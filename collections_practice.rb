@@ -1,4 +1,4 @@
-array = [25, 7, 1]
+array = ["duck","fasdfuck","bucksadf"]
 
 def sort_array_asc(array)
   return array.sort
