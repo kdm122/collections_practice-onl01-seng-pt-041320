@@ -1,3 +1,7 @@
+array = [25, 7, 1]
+
 def sort_array_asc(array)
-  array.sort_array_asc
+  puts array.sort
 end
+
+sort_array_asc(array)
