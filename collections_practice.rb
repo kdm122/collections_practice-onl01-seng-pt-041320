@@ -1,4 +1,4 @@
-array = [25, 7, 1]
+#array = [25, 7, 1]
 
 def sort_array_asc(array)
   return array.sort
@@ -12,4 +12,5 @@ def array_sort_char_count(array)
   sorted_array = array.sort_by {|x| x.length}
   return sorted_array
 end
-sort_array_desc(array)
+
+#sort_array_desc(array)
