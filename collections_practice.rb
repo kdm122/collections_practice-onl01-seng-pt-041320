@@ -12,4 +12,3 @@ def array_sort_char_count(array)
   
 end
 sort_array_desc(array)
-sdfsddfsf
