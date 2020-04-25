@@ -5,7 +5,7 @@ def sort_array_asc(array)
 end
 
 def sort_array_desc(array)
-  puts array.sort!
+  puts array.sort.reverse
 end
 
 sort_array_desc(array)
