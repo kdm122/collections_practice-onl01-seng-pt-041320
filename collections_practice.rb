@@ -15,4 +15,6 @@ def sort_array_char_count(array)
   return array.sort{|x, y| x.length <=> y.length}
 end
 
+def swap_elements(array,i1,i2)
+
 #array_sort_char_count(array)
